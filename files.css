@@ -76,10 +76,6 @@ border-radius: 50px 50px 50px 50px;
 margin-bottom:50px;}
 .box6{color:white;
 background-color:#ff3399;
-text-shadow:2px 2px 25px #101010;
-font-family:Comic Sans MS;
-font-size:5em;
-line-height:2em;
 box-shadow: 20px 20px 8px #808080;
 padding-top: 10px;
 padding-right: 50px;
@@ -87,6 +83,11 @@ padding-left:50px;
 padding-bottom:50px;
 border-radius:50px 50px 50px 50px;
 margin-bottom:50px;}
+.text6{text-shadow:2px 2px 25px #101010;
+font-family:Comic Sans MS;
+font-size:5em;
+line-height:2em;}
+
 .btn{
   height:100%;
 }
@@ -104,8 +105,8 @@ button{
   color:#fff;
   border:none;
   position:relative;
-  font-size:1.6em;
-  padding:0 2em;
+  font-size:3em;
+  padding:0.2em;
   cursor:pointer;
   transition:800ms ease all;
   outline:none;
