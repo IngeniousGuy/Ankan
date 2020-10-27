@@ -3,8 +3,8 @@
 margin:auto}
 
 
-.box1{background-image: linear-gradient(rgb(255, 136, 0),white,green);
-color:maroon;
+.box1{background-image: linear-gradient(#ff8000,#ff8000,white);
+color:white;
 font-style:italic,bold;
 text-shadow:2px 2px 25px #101010;
 font-family:Comic Sans MS;
